@@ -22,3 +22,5 @@ Here are some ideas to get you started:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Stravey)
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=Stravey)
+
+![snake](https://raw.githubusercontent.com/Stravey/Stravey/output/github-contribution-grid-snake.svg)
