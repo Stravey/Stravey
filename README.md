@@ -23,4 +23,4 @@ Here are some ideas to get you started:
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=Stravey)
 
-![snake](https://raw.githubusercontent.com/Stravey/Stravey/output/github-contribution-grid-snake.svg)
+![snake](https://raw.githubusercontent.com/Stravey/Stravey/refs/heads/output/github-contribution-grid-snake.svg)
