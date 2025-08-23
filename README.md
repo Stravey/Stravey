@@ -17,10 +17,4 @@ Here are some ideas to get you started:
 
 ## 📊 GitHub 数据统计
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=stravey)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Stravey)
-
-![trophy](https://github-profile-trophy.vercel.app/?username=Stravey)
-
 ![snake](https://raw.githubusercontent.com/Stravey/Stravey/refs/heads/output/github-contribution-grid-snake.svg)
