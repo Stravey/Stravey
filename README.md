@@ -22,6 +22,10 @@ I'm Stravey, a Computer Science student specializing in deep learning research. 
 - **Deployment Tools:** ONNX, TensorRT, Docker, Kubernetes
 - **Data & Tools:** NumPy, Pandas, PySpark
 
+🤝 Join Our Community
+
+**Welcome deep learning enthusiasts to join my organization!** Let's build, learn, and grow together in the field of artificial intelligence.
+
 📊 GitHub Statistics
 
 ![snake](https://raw.githubusercontent.com/Stravey/Stravey/refs/heads/output/github-contribution-grid-snake.svg)
