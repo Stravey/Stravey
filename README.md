@@ -2,6 +2,7 @@
 
 <!--
 **Stravey/Stravey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-->
 
 I'm Stravey, a Computer Science student specializing in deep learning research. Passionate about artificial intelligence, neural networks, and distributed systems.
 
