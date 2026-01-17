@@ -15,7 +15,7 @@ I'm Stravey, a Computer Science student specializing in deep learning research. 
 - 📫 **How to reach me:** [2158864989@qq.com]
 - ⚡ **Fun fact:** [currently nothing]
 
-🛠️Technical Focus
+🛠️ Technical Focus
 
 - **Deep Learning Frameworks:** PyTorch
 - **Research Areas:** Computer Vision, Natural Language Processing, Generative AI
