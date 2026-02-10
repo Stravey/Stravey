@@ -12,7 +12,7 @@ I'm Stravey, a Computer Science student specializing in deep learning research. 
 - 👯 **Looking to collaborate on:** Open-source AI projects, meaningful deep learning applications
 - 🤔 **Looking for help with:** Model deployment optimization, multi-GPU distributed training
 - 💬 **Ask me about:** Deep learning practices, model tuning experiences
-- 📫 **How to reach me:** [2158864989@qq.com]
+- 📫 **How to reach me:** [2205487298@qq.com]
 - ⚡ **Fun fact:** [currently nothing]
 
 🛠️ Technical Focus
